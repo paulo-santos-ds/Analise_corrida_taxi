@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 Este projeto tem como objetivo analisar os dados de um aplicativo fictício de caronas. Encontrar padrões nas informações disponíveis, entender as preferências dos passageiros e o impacto de fatores externos nas corridas. 
  
- ** Ferramentas e Bibliotecas Utilizadas **
+ **Ferramentas e Bibliotecas Utilizadas**
 * Python: Linguagem principal utilizada para a análise.
 * Pandas: Biblioteca para manipulação e análise de dados.
 * Numpy e scipy: Biblioteca que visa possibilitar a computação numérica com Python
