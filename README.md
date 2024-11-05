@@ -62,3 +62,11 @@ Aprendizados
 * Documentação de projetos: elaboração de documentação clara e detalhada para garantir que o projeto seja compreensível e replicável.
 * Utilização de bibliotecas e ferramentas: aplicação prática de diversas bibliotecas e ferramentas do ecossistema Python.
 * Tomada de decisões baseadas em dados: uso de insights derivados da análise de dados para orientar decisões estratégicas.
+
+
+## 🛠️ Instalação
+
+1. Clone este repositório
+2. Instale as dependências listadas acima
+3. Execute o aplicativo:
+
